@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OSDC</string>
+    <string name="action_settings">Settings</string>
+    <string name="first">First Conf. Rm</string>
+    <string name="second">Second Conf. Rm</string>
+    <string name="international">In\'l Conf. Rm</string>
+
+</resources>

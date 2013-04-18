@@ -1,0 +1,5 @@
+libs
+lint.xml
+proguard-project.txt
+gen/
+bin/
