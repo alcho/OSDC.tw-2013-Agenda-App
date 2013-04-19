@@ -8,14 +8,14 @@ public class SecondRoom {
 	public static final String[][] topics = {
 		{ "What beginners teach us",
 			"Wissbi, A Distributed Event Toolkit to Process Big Data",
-			"Asynchronously C++",
+			"What's new in cpanm 1.6",
 			"Lunch",
 			"我如何停止憂慮並愛上 Non-MVC Web Framework",
 			"讓系統千變萬化的作業環境",
 			"Tea Time",
 			"Game Jam and Open Source",
 			"第一次 setup openstack + lxc 就上手",
-			"Building a keyboard from scratch / What's new in cpanm 1.6"},
+			"Building a keyboard from scratch"},
 		{ "Future of JavaScript",
 			"Acmeism - Hacking in all Languages at Once",
 			"ElasticSearch 實戰介紹",
@@ -27,7 +27,7 @@ public class SecondRoom {
 			"Lightning Talks" },
 	};
 	public static final String[][] authors = {
-		{"Selena Deckelmann", "lunastorm", "fr3@K", "", "BrianHsu", "wycc", "", "Johnson Lin", "老蕭", "obra / Tatsuhiko Miyagawa"},
+		{"Selena Deckelmann", "lunastorm", "Tatsuhiko Miyagawa", "", "BrianHsu", "wycc", "", "Johnson Lin", "老蕭", "obra"},
 		{"Paul Rouget", "Ingy", "gugod", "", "Audrey", "Kirby", "", "Jserv", ""},
 	};
 
